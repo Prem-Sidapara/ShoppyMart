@@ -12,7 +12,7 @@ function App() {
 
 
   return (
-    <div className="min-h-screen bg-white ">
+    <div className="min-h-screen bg-[#A5C9CA] ">
       <Navbar/>
       <main className="container mx-auto px-4 py-8">
         <Routes>
